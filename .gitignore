@@ -1,0 +1,6 @@
+# Ignore large Yelp dataset files
+data/*.json
+
+# Ignore notebook checkpoints and OS junk
+.DS_Store
+.ipynb_checkpoints/
